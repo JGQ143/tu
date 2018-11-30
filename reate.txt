@@ -1,0 +1,91 @@
+考试平台登录:   http://172.16.10.111/exam/exam/list.do
+
+
+关于学习:   http://how2j.cn/
+http://www.runoob.com/
+
+
+
+个性图标:   http://iconfont.cn/collections/index?spm=a313x.7781069.1998910419.3
+
+
+
+图片网页:    http://www.runoob.com/w3cnote/android-tutorial-9-image.html
+
+
+视频播放器:    http://www.runoob.com/w3cnote/android-tutorial-mediaplayer.html
+
+    http://www.runoob.com/w3cnote/android-tutorial-mediaplayer.html
+
+
+Android入门:    http://www.runoob.com/w3cnote/android-tutorial-intro.html
+
+知识点:   http://note.youdao.com/noteshare?id=8cb7cdc78af9e9d325a3f8c94a83304a
+
+WebView:    https://blog.csdn.net/lowprofile_coding/article/details/77928614
+
+
+快捷键:    https://blog.csdn.net/xuaho0907/article/details/72026869
+
+
+webService:    https://www.cnblogs.com/xdp-gacl/p/4048937.html
+
+
+HttpClient:  useLibrary 'org.apache.http.legacy'
+
+Tablayout的依赖:    compile 'com.android.support:design:28+'
+
+
+imageloader 依赖：compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+
+Gson网址:
+
+
+接口:
+
+String baseUrl = "http://api.expoon.com/AppNews/getNewsList/type/1/p/";
+
+
+String urlString = "http://api.expoon.com/AppNews/getNewsList/type/1/p/1";
+
+
+String urlBitmap = "http://img.my.csdn.net/uploads/201407/26/1406383265_8550.jpg";
+
+
+pulltoRefresh依赖:   compile 'com.github.userswlwork:pull-to-refresh:1.0.0'
+
+Banner依赖:    compile 'com.youth.banner:banner:1.4.9'
+
+频道管理:
+
+maven {url "https://jitpack.io"}
+
+依赖:   compile 'com.github.andyoom:draggrid:v1.0.1'
+
+
+
+
+
+图片网址:
+
+"http://ww4.sinaimg.cn/large/006uZZy8jw1faic259ohaj30ci08c74r.jpg"
+"http://ww4.sinaimg.cn/large/006uZZy8jw1faic2b16zuj30ci08cwf4.jpg
+"http://ww4.sinaimg.cn/large/006uZZy8jw1faic2e7vsaj30ci08cglz.jpg"
+"http://ww4.sinaimg.cn/large/006uZZy8jw1faic2e7vsaj30ci08cglz.jpg"
+
+
+事件传递:     https://blog.csdn.net/hubianyu/article/details/77941618
+图片压缩博客:   https://blog.csdn.net/hubianyu/article/details/77987661
+
+
+
+点击各种图标网站:
+
+http://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=4491
+
+不一样的接口:
+ String urlString ="http://api.tianapi.com/meinv/?key=c0bf81fbc2864ca3425a61ec7bcba15e&num=10";
+
+
+http://note.youdao.com/noteshare?id=60b560771a5d89b40522c10aeff8acc9
+电商实战第一个月有道笔记务必记录下来，每天打开看一下当天的笔记
