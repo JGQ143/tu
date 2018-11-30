@@ -1,31 +1,42 @@
-¿¼ÊÔÆ½Ì¨µÇÂ¼:   http://172.16.10.111/exam/exam/list.do
+è€ƒè¯•å¹³å°ç™»å½•:  
 
 
-¹ØÓÚÑ§Ï°:   http://how2j.cn/
+
+
+
+
+
+
+
+
+http://172.16.10.111/exam/exam/list.do
+
+
+å…³äºå­¦ä¹ :   http://how2j.cn/
 http://www.runoob.com/
 
 
 
-¸öĞÔÍ¼±ê:   http://iconfont.cn/collections/index?spm=a313x.7781069.1998910419.3
+ä¸ªæ€§å›¾æ ‡:   http://iconfont.cn/collections/index?spm=a313x.7781069.1998910419.3
 
 
 
-Í¼Æ¬ÍøÒ³:    http://www.runoob.com/w3cnote/android-tutorial-9-image.html
+å›¾ç‰‡ç½‘é¡µ:    http://www.runoob.com/w3cnote/android-tutorial-9-image.html
 
 
-ÊÓÆµ²¥·ÅÆ÷:    http://www.runoob.com/w3cnote/android-tutorial-mediaplayer.html
+è§†é¢‘æ’­æ”¾å™¨:    http://www.runoob.com/w3cnote/android-tutorial-mediaplayer.html
 
     http://www.runoob.com/w3cnote/android-tutorial-mediaplayer.html
 
 
-AndroidÈëÃÅ:    http://www.runoob.com/w3cnote/android-tutorial-intro.html
+Androidå…¥é—¨:    http://www.runoob.com/w3cnote/android-tutorial-intro.html
 
-ÖªÊ¶µã:   http://note.youdao.com/noteshare?id=8cb7cdc78af9e9d325a3f8c94a83304a
+çŸ¥è¯†ç‚¹:   http://note.youdao.com/noteshare?id=8cb7cdc78af9e9d325a3f8c94a83304a
 
 WebView:    https://blog.csdn.net/lowprofile_coding/article/details/77928614
 
 
-¿ì½İ¼ü:    https://blog.csdn.net/xuaho0907/article/details/72026869
+å¿«æ·é”®:    https://blog.csdn.net/xuaho0907/article/details/72026869
 
 
 webService:    https://www.cnblogs.com/xdp-gacl/p/4048937.html
@@ -33,15 +44,15 @@ webService:    https://www.cnblogs.com/xdp-gacl/p/4048937.html
 
 HttpClient:  useLibrary 'org.apache.http.legacy'
 
-TablayoutµÄÒÀÀµ:    compile 'com.android.support:design:28+'
+Tablayoutçš„ä¾èµ–:    compile 'com.android.support:design:28+'
 
 
-imageloader ÒÀÀµ£ºcompile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+imageloader ä¾èµ–ï¼šcompile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 
-GsonÍøÖ·:
+Gsonç½‘å€:
 
 
-½Ó¿Ú:
+æ¥å£:
 
 String baseUrl = "http://api.expoon.com/AppNews/getNewsList/type/1/p/";
 
@@ -52,21 +63,21 @@ String urlString = "http://api.expoon.com/AppNews/getNewsList/type/1/p/1";
 String urlBitmap = "http://img.my.csdn.net/uploads/201407/26/1406383265_8550.jpg";
 
 
-pulltoRefreshÒÀÀµ:   compile 'com.github.userswlwork:pull-to-refresh:1.0.0'
+pulltoRefreshä¾èµ–:   compile 'com.github.userswlwork:pull-to-refresh:1.0.0'
 
-BannerÒÀÀµ:    compile 'com.youth.banner:banner:1.4.9'
+Bannerä¾èµ–:    compile 'com.youth.banner:banner:1.4.9'
 
-ÆµµÀ¹ÜÀí:
+é¢‘é“ç®¡ç†:
 
 maven {url "https://jitpack.io"}
 
-ÒÀÀµ:   compile 'com.github.andyoom:draggrid:v1.0.1'
+ä¾èµ–:   compile 'com.github.andyoom:draggrid:v1.0.1'
 
 
 
 
 
-Í¼Æ¬ÍøÖ·:
+å›¾ç‰‡ç½‘å€:
 
 "http://ww4.sinaimg.cn/large/006uZZy8jw1faic259ohaj30ci08c74r.jpg"
 "http://ww4.sinaimg.cn/large/006uZZy8jw1faic2b16zuj30ci08cwf4.jpg
@@ -74,18 +85,18 @@ maven {url "https://jitpack.io"}
 "http://ww4.sinaimg.cn/large/006uZZy8jw1faic2e7vsaj30ci08cglz.jpg"
 
 
-ÊÂ¼ş´«µİ:     https://blog.csdn.net/hubianyu/article/details/77941618
-Í¼Æ¬Ñ¹Ëõ²©¿Í:   https://blog.csdn.net/hubianyu/article/details/77987661
+äº‹ä»¶ä¼ é€’:     https://blog.csdn.net/hubianyu/article/details/77941618
+å›¾ç‰‡å‹ç¼©åšå®¢:   https://blog.csdn.net/hubianyu/article/details/77987661
 
 
 
-µã»÷¸÷ÖÖÍ¼±êÍøÕ¾:
+ç‚¹å‡»å„ç§å›¾æ ‡ç½‘ç«™:
 
 http://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=4491
 
-²»Ò»ÑùµÄ½Ó¿Ú:
+ä¸ä¸€æ ·çš„æ¥å£:
  String urlString ="http://api.tianapi.com/meinv/?key=c0bf81fbc2864ca3425a61ec7bcba15e&num=10";
 
 
 http://note.youdao.com/noteshare?id=60b560771a5d89b40522c10aeff8acc9
-µçÉÌÊµÕ½µÚÒ»¸öÔÂÓĞµÀ±Ê¼ÇÎñ±Ø¼ÇÂ¼ÏÂÀ´£¬Ã¿Ìì´ò¿ª¿´Ò»ÏÂµ±ÌìµÄ±Ê¼Ç
+ç”µå•†å®æˆ˜ç¬¬ä¸€ä¸ªæœˆæœ‰é“ç¬”è®°åŠ¡å¿…è®°å½•ä¸‹æ¥ï¼Œæ¯å¤©æ‰“å¼€çœ‹ä¸€ä¸‹å½“å¤©çš„ç¬”è®°
